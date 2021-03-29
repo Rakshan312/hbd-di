@@ -1,0 +1,81 @@
+*{
+    border:solid;
+}
+
+.header0{
+    background-color:yellow;
+}
+
+.header{
+    background-color:sandybrown;
+    justify-content: space-between;
+    display:flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.click{
+    background-color:yellow;
+    justify-content: space-between;
+    display:flex;
+    padding: 20px;
+}
+
+.info{
+    background-color:sandybrown;
+    justify-content: space-between;
+    display:flex;
+    padding: 20px;
+}
+
+.footer{
+    background-color:yellow;
+    justify-content: space-between;
+    display:flex;
+    padding: 20px;
+}
+
+.main{
+    background-color:greenyellow;
+    justify-content: space-between;
+    display:flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.header2{
+    background-color:limegreen;
+}
+
+.wish{
+    background-color:greenyellow;
+padding: 20px;
+}
+
+.click2{
+    background-color:limegreen;
+    justify-content: space-between;
+    display:flex;
+    padding: 20px;
+}
+
+.main2{
+    background-color:cyan;
+    display:flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: space-between;
+}
+
+.main3{
+    background-color:blue;
+    display:flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.header3{
+    background-color:goldenrod;
+    padding: 20px;
+    justify-content: space-between;
+}
